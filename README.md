@@ -12,3 +12,6 @@ Welcome to my [**Blog**](http://blog.harumill.top/)
 
 ![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
 ![](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
+
+![](https://img.shields.io/badge/-ubuntu-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
+
