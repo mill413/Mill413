@@ -10,4 +10,5 @@ Welcome to my [**Blog**](http://blog.harumill.top/)
 
 ## Languages & Tools
 
-![](https://img.shields.io/badge/kotlin-_-181717)
+![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
+![](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
