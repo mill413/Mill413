@@ -7,6 +7,5 @@ Welcome to my [**Blog**](http://blog.harumill.top/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Mill413&show_icons=true&hide_border=true"></a>
 
-# Using and Learning Language
-
-![](https://img.shields.io/badge/%20-Kotlin-blue?style=flat-square&logo=kotlin&logoColor=white)
+## Language
+![kotlin](https://img.shields.io/badge/%20-Kotlin-blue?style=flat-square&logo=kotlin&logoColor=white)
