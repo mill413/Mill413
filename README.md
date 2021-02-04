@@ -10,4 +10,4 @@ Welcome to my [**Blog**](http://blog.harumill.top/)
 
 ## Languages & Tools
 
-![](https://img.shields.io/badge/kotlin-_-181717?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/kotlin-_-181717)
