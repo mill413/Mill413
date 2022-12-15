@@ -10,7 +10,7 @@ Welcome to my [**Blog**](http://blog.harumill.top/)
 
 ## Languages & Tools
 
-![kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
+![kotlin](https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=Kotlin&logoColor=fff)
 ![cpp](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
-![python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python&logoColor=fff)
+![python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&logoColor=fff)
 ![archlinux](https://img.shields.io/badge/-Archlinux-blue?style=flat-square&logo=archlinux&logoColor=fff)
