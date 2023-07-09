@@ -15,3 +15,4 @@ Welcome to my [**Blog**](http://mill413.github.io/)
 ![python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&logoColor=fff)
 
 ![archlinux](https://img.shields.io/badge/-Archlinux-blue?style=flat-square&logo=archlinux&logoColor=fff)
+![PyTorch](https://img.shields.io/badge/-Pytorch-blue?style=flat-square&logo=archlinux&logoColor=fff)
