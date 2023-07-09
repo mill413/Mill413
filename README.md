@@ -2,7 +2,7 @@
 
 Mill is an island in Antarctica.
 
-Welcome to my [**Blog**](http://blog.harumill.top/)
+Welcome to my [**Blog**](http://mill413.github.io/)
 
 ----------------------
 
