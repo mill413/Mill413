@@ -23,4 +23,5 @@ Welcome to my [**Blog**](http://mill413.github.io/)
 
 ![archlinux](https://img.shields.io/badge/-ArchLinux-blue?style=flat-square&logo=archlinux&logoColor=fff)
 
+![conda](https://img.shields.io/badge/-Conda-green?style=flat-square&logo=Conda&logoColor=fff)
 ![pytorch](https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=pytorch&logoColor=fff)
