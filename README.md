@@ -4,7 +4,7 @@ Mill is an island in Antarctica.
 
 Learning CV with Python.
 
-![switch][(https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=Kotlin&logoColor=fff](https://img.shields.io/badge/--red?style=flat-square&logo=nintendoswitch&logoColor=fff))Nintendo Switch player.
+![switch][(https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=Kotlin&logoColor=fff](https://img.shields.io/badge/--red?style=flat-square&logo=nintendoswitch&logoColor=fff)) Nintendo Switch player.
 
 Kotlin & Rust user.
 
