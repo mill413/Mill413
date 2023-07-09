@@ -6,7 +6,7 @@ Learning CV with Python.
 
 Nintendo Switch player.
 
-Kotlin & Rust user.
+Learning Kotlin & Rust.
 
 Welcome to my [**Blog**](http://mill413.github.io/)
 
