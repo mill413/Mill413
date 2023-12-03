@@ -2,11 +2,13 @@
 
 Mill is an island in Antarctica.
 
-Learning CV with Python.
+Learning CV with Python
 
-Nintendo Switch player.
+Nintendo Switch player
 
-Learning Kotlin & Rust.
+Learning Kotlin & Rust
+
+Archlinux User Recently
 
 Welcome to my [**Blog**](http://mill413.github.io/)
 
