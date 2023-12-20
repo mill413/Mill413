@@ -27,3 +27,5 @@ Welcome to my [**Blog**](http://mill413.github.io/)
 
 ![conda](https://img.shields.io/badge/-Anaconda-green?style=flat-square&logo=Anaconda&logoColor=fff)
 ![pytorch](https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=pytorch&logoColor=fff)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mill413&hide=HTML,css,php&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
