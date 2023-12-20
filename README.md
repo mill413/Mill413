@@ -1,6 +1,6 @@
-# Hi, here is Mill413 👋
+# 基本信息 Basic Information 👋
 
-Mill来自南极洲的一个岛屿  Mill is an island in Antarctica.
+Mill是南极洲的一个岛屿  Mill is an island in Antarctica.
 
 使用Python学习计算机视觉中  Learning CV with Python
 
@@ -24,6 +24,7 @@ Archlinux用户  Archlinux User Recently
 ![rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust&logoColor=fff)
 
 ![archlinux](https://img.shields.io/badge/-ArchLinux-blue?style=flat-square&logo=archlinux&logoColor=fff)
+[kde](https://img.shields.io/badge/-KDE-blue?style=flat-square&logo=kde&logoColor=fff)
 
 ![conda](https://img.shields.io/badge/-Anaconda-green?style=flat-square&logo=Anaconda&logoColor=fff)
 ![pytorch](https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=pytorch&logoColor=fff)
