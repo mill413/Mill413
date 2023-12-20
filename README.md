@@ -1,20 +1,20 @@
 # Hi, here is Mill413 👋
 
-Mill is an island in Antarctica.
+Mill来自南极洲的一个岛屿  Mill is an island in Antarctica.
 
-Learning CV with Python
+使用Python学习计算机视觉中  Learning CV with Python
 
-Nintendo Switch player
+NS玩家  Nintendo Switch player
 
-Learning Kotlin & Rust
+正在学习Kotlin和Rust  Learning Kotlin & Rust
 
-Archlinux User Recently
+Archlinux用户  Archlinux User Recently
 
-Welcome to my [**Blog**](http://mill413.github.io/)
+欢迎来我的[**博客**](http://mill413.github.io/)  Welcome to my [**Blog**](http://mill413.github.io/)
 
 ----------------------
 
-## Languages & Tools
+## 语言和工具  Languages & Tools
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mill413&hide=HTML,css,php&layout=compact&show_icons=true"></a>
 
@@ -29,5 +29,5 @@ Welcome to my [**Blog**](http://mill413.github.io/)
 ![pytorch](https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=pytorch&logoColor=fff)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Mill413&show_icons=true&hide_border=true)
+![Repo stats](https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Mill413&show_icons=true&hide_border=true)
 
