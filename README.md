@@ -29,5 +29,5 @@ Archlinux用户  Archlinux User Recently
 ![pytorch](https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=pytorch&logoColor=fff)
 
 
-![Repo stats](https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Mill413&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Mill413&show_icons=true&hide_border=true)
 
