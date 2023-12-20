@@ -24,7 +24,7 @@ Archlinux用户  Archlinux User Recently
 ![rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust&logoColor=fff)
 
 ![archlinux](https://img.shields.io/badge/-ArchLinux-blue?style=flat-square&logo=archlinux&logoColor=fff)
-[kde](https://img.shields.io/badge/-KDE-blue?style=flat-square&logo=kde&logoColor=fff)
+![kde](https://img.shields.io/badge/-KDE-blue?style=flat-square&logo=kde&logoColor=fff)
 
 ![conda](https://img.shields.io/badge/-Anaconda-green?style=flat-square&logo=Anaconda&logoColor=fff)
 ![pytorch](https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=pytorch&logoColor=fff)
