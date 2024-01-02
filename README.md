@@ -1,20 +1,20 @@
-# 基本信息 Basic Information 👋
+# 基本信息 | Basic Information 👋
 
-Mill是南极洲的一个岛屿  Mill is an island in Antarctica.
+Mill是南极洲的一个岛屿  | Mill is an island in Antarctica.
 
-使用Python学习计算机视觉中  Learning CV with Python
+使用Python学习计算机视觉中  | Learning CV with Python
 
-NS玩家  Nintendo Switch player
+NS玩家  | Nintendo Switch player
 
-正在学习Kotlin和Rust  Learning Kotlin & Rust
+正在学习Kotlin和Rust  | Learning Kotlin & Rust
 
-Archlinux用户  Archlinux User Recently
+Archlinux用户  | Archlinux User Recently
 
-欢迎来我的[**博客**](http://mill413.github.io/)  Welcome to my [**Blog**](http://mill413.github.io/)
+欢迎来我的[**博客**](http://mill413.github.io/)  | Welcome to my [**Blog**](http://mill413.github.io/)
 
 ----------------------
 
-## 语言和工具  Languages & Tools
+## 语言和工具  | Languages & Tools
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mill413&hide=HTML,css,php&layout=compact&show_icons=true"></a>
 
