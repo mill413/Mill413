@@ -1,4 +1,4 @@
-hi<h1 align="center">Hi 👋, I'm mill413</h1>
+<h1 align="center">Hi 👋, I'm mill413</h1>
 <h3 align="center">No magic in computer, but bugs</h3>
 
 - 🌱 I’m currently learning **Kotlin, Rust, C#**
