@@ -10,8 +10,6 @@ Archlinux User Recently
 
 Welcome to my [**Blog**](http://mill413.github.io/)
 
-----------------------
-
 ## Languages & Tools
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mill413&hide=HTML,css,php&layout=compact&show_icons=true"></a>
