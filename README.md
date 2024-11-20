@@ -14,7 +14,7 @@ Welcome to my [**Blog**](http://mill413.github.io/)
 
 ## Languages & Tools
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mill413&hide=HTML,css,php&layout=compact&show_icons=true"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mill413&hide=HTML,css,php&layout=compact&show_icons=true"></a>
 
 ![kotlin](https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=Kotlin&logoColor=fff)
 ![cpp](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
